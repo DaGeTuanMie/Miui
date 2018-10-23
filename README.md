@@ -1,9 +1,3 @@
-# miui
-#利用VUE来模仿MIUI论坛，实现部分功能，主要作为练习,请多指正！
-#css部分采用stylus
-#stylus安装：
-npm install stylus --save
-npm install stylus-loader --save
 > A Vue.js project
 ## Build Setup
 
