@@ -1,5 +1,5 @@
 <template>
-    <div class="banner">
+    <div class="banner" :class="{'show':isShow==true}">
       <div class="wrapper">
         <a href="#" class="item one">首页</a>
         <a href="#" class="item">新帖</a>
@@ -18,11 +18,32 @@
 
 <script>
     export default {
-        name: "HomeBanner"
+        name: "HomeBanner",
+        data(){
+          return{
+            isShow:false
+          }
+        },
+        methods:{
+          handleScroll(){
+            var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
+            console.log(scrollTop)
+            if(scrollTop>100){
+              this.isShow=true
+            }else {
+              this.isShow=false
+            }
+          }
+        },
+      mounted(){
+          window.addEventListener('scroll',this.handleScroll)
+      }
     }
 </script>
 
 <style scoped lang="stylus">
+  .show
+    position relative
   .banner
     height 48px
     background #FD6440
