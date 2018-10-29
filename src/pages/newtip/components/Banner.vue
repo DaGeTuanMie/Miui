@@ -1,7 +1,7 @@
 <template>
     <div class="banner">
       <div class="wrapper">
-        <a href="#" class="item one">首页</a>
+        <router-link tag="a" to="/" class="item one">首页</router-link>
         <router-link tag="a" to="/newtip" class="item">新帖</router-link>
         <a href="#" class="item">版块</a>
         <a href="#" class="item">MIUI专区</a>
@@ -18,7 +18,7 @@
 
 <script>
     export default {
-        name: "HomeBanner"
+        name: "NewtipBanner"
     }
 </script>
 
