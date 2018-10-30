@@ -12,14 +12,101 @@
             <a href="#" class="title-img4"></a>
           </div>
           <ul class="content">
-            <li class="item">
+            <li class="itema">
               <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
-              <div class="item2">
-                <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
-                <a href="#" class="item2-desc1">[产品发布]</a>
-                <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
               </div>
-              <div class="item3"></div>
+            </li>
+            <li class="itemb">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/140/89/00/53_avatar_small.jpg?10002" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_2.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[极客播报]</a>
+                  <a href="#" class="item2-desc2">锦鲤在哪里？小米MIX3+1MORE三单元蓝牙耳机众测召集中 </a>
+                  <img src="http://static.bbs.miui.com/static/image/stamp/005.small.gif" class="item2-img2">
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_1.gif" class="item2-img4">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img5">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">星空之城</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itemc">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/094/13/59/33_avatar_small.jpg?1522606141" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【米柚科技说】MIX3超级夜拍背后多帧合成的应用</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_2.gif" class="item2-img3">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">Mc..小磊</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itemd">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
             </li>
           </ul>
         </div>
@@ -113,9 +200,160 @@
         padding 0 10px
         border-radius 5px
         border: 1px solid #ccc
-        .item
+        .itema
+          float left
+          padding 13px 8px
+          /*border-radius 5px*/
+          border-bottom 1px dashed #ccc
+          text-align left
+          .item1
+            float left
+            margin-right 10px
+            .item1-img
+              display inline-block
+              width 40px
+              height 40px
+              border-radius 8px
+          .item4
+            float left
+            width 609px
+            .item2
+              padding-bottom 3px
+              font 400 16px/24px microsoft
+              .item2-img1
+                cursor pointer
+              .item2-desc1:hover
+                color #fd6440
+              .item2-desc2
+                font 700 16px/24px microsoft
+                color red
+              item2-desc2:hover
+                color #fd6440
+            .item3
+              width 609px
+              color #c7c7c7
+              font 400 12px/18px microsoft
+              .item3-desc1
+                color #c7c7c7
+              .item3-desc1:hover
+                color #fd6440
+        .itema:hover
+          background green
+        .itemb
+          float left
           padding 13px 8px
           border-radius 5px
-          border-bottom 1px solid black
-          background red
+          border-bottom 1px dashed #ccc
+          text-align left
+          .item1
+            float left
+            margin-right 10px
+            .item1-img
+              display inline-block
+              width 40px
+              height 40px
+              border-radius 8px
+          .item4
+            float left
+            width 609px
+            .item2
+              padding-bottom 3px
+              font 400 16px/24px microsoft
+              .item2-img1
+                cursor pointer
+              .item2-desc1:hover
+                color #fd6440
+              .item2-desc2
+                font 700 16px/24px microsoft
+                color red
+              item2-desc2:hover
+                color #fd6440
+            .item3
+              width 609px
+              color #c7c7c7
+              font 400 12px/18px microsoft
+              .item3-desc1
+                color #c7c7c7
+              .item3-desc1:hover
+                color #fd6440
+        .itemb:hover
+          background green
+        .itemc
+          float left
+          padding 13px 8px
+          /*border-radius 5px*/
+          border-bottom 1px dashed #ccc
+          text-align left
+          .item1
+            float left
+            margin-right 10px
+            .item1-img
+              display inline-block
+              width 40px
+              height 40px
+              border-radius 8px
+          .item4
+            float left
+            width 609px
+            .item2
+              padding-bottom 3px
+              font 400 16px/24px microsoft
+              .item2-img1
+                cursor pointer
+              .item2-desc1:hover
+                color #fd6440
+              .item2-desc2
+                font 700 16px/24px microsoft
+                color red
+              item2-desc2:hover
+                color #fd6440
+            .item3
+              width 609px
+              color #c7c7c7
+              font 400 12px/18px microsoft
+              .item3-desc1
+                color #c7c7c7
+              .item3-desc1:hover
+                color #fd6440
+        .itemc:hover
+          background green
+        .itemd
+          float left
+          padding 13px 8px
+          /*border-radius 5px*/
+          border-bottom 1px dashed #ccc
+          text-align left
+          .item1
+            float left
+            margin-right 10px
+            .item1-img
+              display inline-block
+              width 40px
+              height 40px
+              border-radius 8px
+          .item4
+            float left
+            width 609px
+            .item2
+              padding-bottom 3px
+              font 400 16px/24px microsoft
+              .item2-img1
+                cursor pointer
+              .item2-desc1:hover
+                color #fd6440
+              .item2-desc2
+                font 700 16px/24px microsoft
+                color red
+              item2-desc2:hover
+                color #fd6440
+            .item3
+              width 609px
+              color #c7c7c7
+              font 400 12px/18px microsoft
+              .item3-desc1
+                color #c7c7c7
+              .item3-desc1:hover
+                color #fd6440
+        .itemd:hover
+          background green
 </style>
