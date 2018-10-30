@@ -85,6 +85,74 @@
               </div>
             </li>
             <li class="itemd">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/099/37/17/96_avatar_small.jpg?10004" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_2.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[极客播报]</a>
+                  <a href="#" class="item2-desc2">【小黑屋原创】392周(MIUI10)更新：相框功能，不仅仅是格调</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">楠43</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="iteme">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/030/00/01/30_avatar_small.jpg?10000" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_2.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[第三方应用兼容性]</a>
+                  <a href="#" class="item2-desc2">关于MIX 2S/小米8等机型升级Android 9.0后淘宝无法使用问题说明 </a>
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">楠43</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="iteme">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/030/00/01/30_avatar_small.jpg?10000" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_2.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[第三方应用兼容性]</a>
+                  <a href="#" class="item2-desc2">关于MIX 2S/小米8等机型升级Android 9.0后淘宝无法使用问题说明 </a>
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">楠43</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
               <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
               <div class="item4">
                 <div class="item2">
@@ -97,6 +165,580 @@
                 </div>
                 <div class="item3">
                   <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itemd">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/099/37/17/96_avatar_small.jpg?10004" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_2.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[极客播报]</a>
+                  <a href="#" class="item2-desc2">【小黑屋原创】392周(MIUI10)更新：相框功能，不仅仅是格调</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">楠43</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itema">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/000/00/00/08_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[产品发布]</a>
+                  <a href="#" class="item2-desc2">【2018年10月26日】MIUI 第392周发布公告及更新日志</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">扫地僧</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itemd">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/099/37/17/96_avatar_small.jpg?10004" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_2.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[极客播报]</a>
+                  <a href="#" class="item2-desc2">【小黑屋原创】392周(MIUI10)更新：相框功能，不仅仅是格调</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/hot_3.gif" class="item2-img3">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">楠43</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itemf">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/223/70/36/59_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[红米手机2A]</a>
+                  <a href="#" class="item2-desc2">为什么高铁只有客运而没有货运？</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">风起叶落、</a>
+                  <span class="line">|</span>
+                  <span class="item3-desc2"> 浏览：118237</span>
+                  <span class="line">|</span>
+                  <span class="item3-desc2">回复</span>
+                  <a href="#" class="item3-desc1">1424</a>
+                  <span class="line">|</span>
+                  <a href="#" class="item3-desc1">很痴迷</a>
+                  <a href="#" class="item3-desc1">3分钟前</a>
+                </div>
+              </div>
+            </li>
+            <li class="itemg">
+              <div class="item1"><img src="https://avatar.bbs.miui.com/data/avatar/223/70/36/59_avatar_small.jpg?10001" class="item1-img"></div>
+              <div class="item4">
+                <div class="item2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/pin_3.gif" class="item2-img1">
+                  <a href="#" class="item2-desc1">[小米商城]</a>
+                  <a href="#" class="item2-desc2">十一儿童出游必备 小米米兔米兔拉杆箱发布</a>
+                  <img src="http://static.bbs.miui.com/static/image/filetype/image_s.gif" class="item2-img2">
+                  <img src="https://static.bbs.miui.com/static/image/miui/base/agree.gif" class="item2-img4">
+                </div>
+                <div class="item3">
+                  <a href="#" class="item3-desc1">风起叶落、</a>
                   <span class="line">|</span>
                   <span class="item3-desc2"> 浏览：118237</span>
                   <span class="line">|</span>
@@ -203,7 +845,7 @@
         .itema
           float left
           padding 13px 8px
-          /*border-radius 5px*/
+          border-radius 5px
           border-bottom 1px dashed #ccc
           text-align left
           .item1
@@ -281,7 +923,7 @@
         .itemc
           float left
           padding 13px 8px
-          /*border-radius 5px*/
+          border-radius 5px
           border-bottom 1px dashed #ccc
           text-align left
           .item1
@@ -320,7 +962,7 @@
         .itemd
           float left
           padding 13px 8px
-          /*border-radius 5px*/
+          border-radius 5px
           border-bottom 1px dashed #ccc
           text-align left
           .item1
@@ -355,5 +997,122 @@
               .item3-desc1:hover
                 color #fd6440
         .itemd:hover
+          background green
+        .iteme
+          float left
+          padding 13px 8px
+          border-radius 5px
+          border-bottom 1px dashed #ccc
+          text-align left
+          .item1
+            float left
+            margin-right 10px
+            .item1-img
+              display inline-block
+              width 40px
+              height 40px
+              border-radius 8px
+          .item4
+            float left
+            width 609px
+            .item2
+              padding-bottom 3px
+              font 400 16px/24px microsoft
+              .item2-img1
+                cursor pointer
+              .item2-desc1:hover
+                color #fd6440
+              .item2-desc2
+                font 700 16px/24px microsoft
+                color red
+              item2-desc2:hover
+                color #fd6440
+            .item3
+              width 609px
+              color #c7c7c7
+              font 400 12px/18px microsoft
+              .item3-desc1
+                color #c7c7c7
+              .item3-desc1:hover
+                color #fd6440
+        .iteme:hover
+          background green
+        .itemf
+          float left
+          padding 13px 8px
+          border-radius 5px
+          border-bottom 1px dashed #ccc
+          text-align left
+          .item1
+            float left
+            margin-right 10px
+            .item1-img
+              display inline-block
+              width 40px
+              height 40px
+              border-radius 8px
+          .item4
+            float left
+            width 609px
+            .item2
+              padding-bottom 3px
+              font 400 16px/24px microsoft
+              .item2-img1
+                cursor pointer
+              .item2-desc1:hover
+                color #fd6440
+              .item2-desc2
+                font 700 16px/24px microsoft
+                color red
+              item2-desc2:hover
+                color #fd6440
+            .item3
+              width 609px
+              color #c7c7c7
+              font 400 12px/18px microsoft
+              .item3-desc1
+                color #c7c7c7
+              .item3-desc1:hover
+                color #fd6440
+        .itemf:hover
+          background green
+        .itemg
+          float left
+          padding 13px 8px
+          border-radius 5px
+          border-bottom 1px dashed #ccc
+          text-align left
+          .item1
+            float left
+            margin-right 10px
+            .item1-img
+              display inline-block
+              width 40px
+              height 40px
+              border-radius 8px
+          .item4
+            float left
+            width 609px
+            .item2
+              padding-bottom 3px
+              font 400 16px/24px microsoft
+              .item2-img1
+                cursor pointer
+              .item2-desc1:hover
+                color #fd6440
+              .item2-desc2
+                font 700 16px/24px microsoft
+                color red
+              item2-desc2:hover
+                color #fd6440
+            .item3
+              width 609px
+              color #c7c7c7
+              font 400 12px/18px microsoft
+              .item3-desc1
+                color #c7c7c7
+              .item3-desc1:hover
+                color #fd6440
+        .itemg:hover
           background green
 </style>
