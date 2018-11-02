@@ -778,7 +778,7 @@
             </ul>
           </div>
         </div>
-        <div class="right" :class="{'wrapper':isShow1===true}">
+        <div class="right">
           <div class="right-wrapper">
             <a href="#" class="newPost"></a>
             <a href="#" class="pushCard"></a>
@@ -880,6 +880,7 @@
   .detail
     margin-top 20px
     height 2580px
+    overflow hidden
     .wrapper
       height 100%
       width 960px
