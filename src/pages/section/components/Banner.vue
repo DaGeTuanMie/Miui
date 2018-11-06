@@ -1,7 +1,7 @@
 <template>
     <div class="banner">
       <div class="wrapper">
-        <router-link tag="a" to="/" class="item one">首页</router-link>
+        <a href="#" class="item one">首页</a>
         <router-link to="/newtip" class="item">新帖</router-link>
         <router-link class="item" to="/section">版块</router-link>
         <a href="#" class="item">谈天说地</a>
@@ -17,7 +17,7 @@
 
 <script>
     export default {
-        name: "NewtipBanner"
+        name: "SectionBanner"
     }
 </script>
 

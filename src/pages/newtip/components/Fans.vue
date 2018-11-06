@@ -3,8 +3,8 @@
       <div class="wrapper">
         <div class="title">
           <div class="title-desc">MIUI全球粉丝站</div>
-          <a href="javascript:void(0)" class="yuan" @click="handleFansClick" ref="change">{{msg}}</a>
-          <div :class="{'titleLogo':isShow}">
+          <a href="javascript:void(0)" class="yuan" @click="handleFansClick">{{msg}}</a>
+          <div class="titleLogo" ref="logo">
             <a href="#" class="titleLink one"></a>
             <a href="#" class="titleLink two"></a>
             <a href="#" class="titleLink three"></a>
@@ -18,39 +18,39 @@
             <a href="#" class="titleLink ele"></a>
             <a href="#" class="titleLink twe"></a>
           </div>
-          <div :class="{'titleDesc':isShow}">
+          <div class="titleDesc" ref="desc">
             注：MIUI粉丝站由全球Android爱好者自发创建，其观点和立场不代表MIUI官方
           </div>
         </div>
-        <ul :class="{'content':!isShow}">
-          <li class="item"><a href="#" class="item-logo">德国</a></li>
-          <li class="item"><a href="#" class="item-logo">意大利</a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item one"><a href="#" class="item-logo">俄罗斯</a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item two"><a href="#" class="item-logo">土耳其</a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item three"><a href="#" class="item-logo">挪威</a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
-          <li class="item"><a href="#" class="item-logo"></a></li>
+        <ul class="content" ref="content">
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
+          <li class="item"><a href="#" class="item-logo"><span class="logo-img"></span><span class="logo-desc">德国</span></a></li>
         </ul>
       </div>
     </div>
@@ -62,13 +62,24 @@
         data(){
           return{
             msg:'+',
-            isShow:true
+            flag:true
           }
         },
         methods:{
           handleFansClick(){
-            this.msg="-"
-            this.isShow=!this.isShow
+            if(this.flag){
+              this.msg="-"
+              this.$refs.logo.style.display='none'
+              this.$refs.desc.style.display='block'
+              this.$refs.content.style.display='block'
+              this.flag=!this.flag
+            }else{
+              this.msg="+"
+              this.$refs.logo.style.display='block'
+              this.$refs.desc.style.display='none'
+              this.$refs.content.style.display='none'
+              this.flag=!this.flag
+            }
           }
         }
     }
@@ -141,28 +152,26 @@
           height 31px
           font 400 12px/31px microsoft
           color #909090
+          display none
       .content
         width 960px
         height 156px
+        display none
         .item
           float left
           width 129px
           height 30px
           margin 7px 0 2px
           .item-logo
-            display block
+            float left
             height 26px
-            color #909090
-            font 400 12px/25px microsoft
+            width 24px
             padding-left 35px
-            background url("https://static.bbs.miui.com/static/image/miui/base/fansStationRetract.png") no-repeat 0 -27px
-        .one
-          width 71px
-          height 30px
-        .two
-          width 71px
-          height 30px
-        .three
-          width 59px
-          height 30px
+            .logo-img
+              display inline-block
+              background url("https://static.bbs.miui.com/static/image/miui/base/fansStationRetract.png") no-repeat 0 -27px
+            .logo-desc
+              display inline-block
+              color #909090
+              font 400 12px/25px microsoft
 </style>
