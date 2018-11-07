@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import Home from '@/pages/home/Home'
 import Newtip from '@/pages/newtip/Newtip'
 import Section from '@/pages/section/Section'
+import Zone from '@/pages/zone/Zone'
 Vue.use(Router)
 
 export default new Router({
@@ -21,6 +22,11 @@ export default new Router({
       path:'/section',
       name:'Section',
       component:Section
+    },
+    {
+      path:'/zone',
+      name:'Zone',
+      component:Zone
     }
   ]
 })

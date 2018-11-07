@@ -1,10 +1,10 @@
 <template>
     <div class="banner">
       <div class="wrapper">
-        <a href="#" class="item one">首页</a>
+        <router-link to="/" href="#" class="item one">首页</router-link>
         <router-link to="/newtip" class="item">新帖</router-link>
         <router-link class="item" to="/section">版块</router-link>
-        <router-link to="/zone" href="#" class="item">MIUI专区</router-link>
+        <a href="#" class="item">MIUI专区</a>
         <a href="#" class="item">谈天说地</a>
         <a href="#" class="item">俱乐部</a>
         <a href="#" class="item">极客秀</a>
@@ -18,7 +18,7 @@
 
 <script>
     export default {
-        name: "HomeBanner"
+        name: "ZoneBanner"
     }
 </script>
 
