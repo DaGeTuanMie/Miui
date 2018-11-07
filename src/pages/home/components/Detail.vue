@@ -279,7 +279,7 @@
         methods:{
           handleScroll(){
             var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
-            console.log(scrollTop)
+            // console.log(scrollTop)
             if(scrollTop>2142){
               this.isShow=true
             }else {

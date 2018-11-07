@@ -4,6 +4,9 @@
       <section-banner></section-banner>
       <section-content></section-content>
       <section-model></section-model>
+      <section-miui></section-miui>
+      <section-final></section-final>
+      <section-arrow></section-arrow>
       <section-footer></section-footer>
     </div>
 </template>
@@ -14,6 +17,9 @@
   import SectionContent from './components/Content'
   import SectionFooter from './components/Footer'
   import SectionModel from './components/Model'
+  import SectionMiui from './components/Miui'
+  import SectionFinal from './components/Final'
+  import SectionArrow from './components/Arrow'
     export default {
         name: "Section",
         components:{
@@ -21,7 +27,10 @@
           SectionBanner,
           SectionFooter,
           SectionContent,
-          SectionModel
+          SectionModel,
+          SectionMiui,
+          SectionFinal,
+          SectionArrow
         }
     }
 </script>
