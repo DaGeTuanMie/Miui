@@ -4,6 +4,7 @@ import Home from '@/pages/home/Home'
 import Newtip from '@/pages/newtip/Newtip'
 import Section from '@/pages/section/Section'
 import Zone from '@/pages/zone/Zone'
+import Club from '@/pages/club/Club'
 Vue.use(Router)
 
 export default new Router({
@@ -27,6 +28,11 @@ export default new Router({
       path:'/zone',
       name:'Zone',
       component:Zone
+    },
+    {
+      path:'/club',
+      name:'Club',
+      component:Club
     }
   ]
 })
