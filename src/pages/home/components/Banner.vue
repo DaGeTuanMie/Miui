@@ -1,7 +1,7 @@
 <template>
     <div class="banner">
       <div class="wrapper">
-        <a href="#" class="item one">首页</a>
+        <router-link to="/" class="item one">首页</router-link>
         <router-link to="/newtip" class="item">新帖</router-link>
         <router-link class="item" to="/section">版块</router-link>
         <router-link to="/zone" class="item">MIUI专区</router-link>

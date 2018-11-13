@@ -919,8 +919,9 @@
               color #fd6440
       .wrapper
         position fixed
-        top 100px
+        top 50px
         right 180px
+        background #ffffff
       .right
         float right
         width 250px
